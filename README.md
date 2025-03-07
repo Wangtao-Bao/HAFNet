@@ -3,7 +3,11 @@
 **We have submitted the paper for review and will make the code available after publication.**
 
 ## Network
-![outline]
+HAFNet is an improved U-Net architecture from two aspects: feature extraction backbone and skip connections, aiming to enhance detection ability and generalization performance.
+## Recommended Environment
+ - [ ] python  3.11.7
+ - [ ] pytorch 2.2.1
+ - [ ] torchvision 0.17.1
 
 ## Datasets
 **Our project has the following structure:**
