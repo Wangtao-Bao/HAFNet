@@ -3,7 +3,7 @@
 **We have submitted the paper for review and will make the code available after publication.**
 
 ## Network
-![outline](image/img1.jpg)
+![outline]
 
 ## Datasets
 **Our project has the following structure:**
@@ -36,9 +36,10 @@
 <be>
 
 ## Results
-#### Qualitative Results
-
-![outline](image/img2.jpg)
+#### Visualization results
+![outline](image/Visualization.jpg)
+#### Grad-CAM results
+![outline](image/Grad-CAM.jpg)
 
 #### Quantitative Results on NUAA-SIRST, IRSTD-1K and NUDT-SIRST
 
