@@ -52,7 +52,7 @@ HAFNet is an improved U-Net architecture from two aspects: feature extraction ba
 | NUAA-SIRST    | 79.19  | 81.00  |  97.72 | 14.06 | 88.39 |
 | IRSTD-1K      | 67.95  | 69.23  |  94.61 | 10.57 | 80.91 |
 | NUDT-SIRST    | 96.28  | 96.11  |  99.26 | 1.79  | 98.10 |
-
+| [[weights]](https://drive.google.com/drive/folders/1MhZbgE0pjOmyEuOaIs11tvivFw2ViMCh?usp=drive_link)|
 
 *This code is highly borrowed from [SCTransNet](https://github.com/xdFai/SCTransNet). Thanks to Shuai Yuan.
 
