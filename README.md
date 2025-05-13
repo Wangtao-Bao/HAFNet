@@ -1,6 +1,6 @@
 # HAFNet: Hierarchical Attention Fusion Network for Infrared Small Target Detection
 
-**We have submitted the paper to _IEEE Transactions on Circuits and Systems for Video Technology_ for review and will provide code after publication.**
+**We have submitted the paper for review and will make the code available after publication.**
 
 ## Network
 HAFNet is an improved U-Net architecture from two aspects: feature extraction backbone and skip connections, aiming to enhance detection ability and generalization performance.
