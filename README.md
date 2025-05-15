@@ -44,8 +44,7 @@ HAFNet is an improved U-Net architecture from two aspects: feature extraction ba
 ![outline](image/Visualization.jpg)
 #### Grad-CAM results
 ![outline](image/Grad-CAM.jpg)
-#### 3D Visualization Results
-![outline](image/3D.jpg)
+
 
 #### Quantitative Results on NUAA-SIRST, IRSTD-1K and NUDT-SIRST
 
