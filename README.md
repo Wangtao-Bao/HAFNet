@@ -4,6 +4,7 @@
 
 ## Network
 HAFNet is an improved U-Net architecture from two aspects: feature extraction backbone and skip connections, aiming to enhance detection ability and generalization performance.
+![outline](image/HAFNet.png)
 ## Recommended Environment
  - [ ] python  3.11.7
  - [ ] pytorch 2.2.1
@@ -41,9 +42,9 @@ HAFNet is an improved U-Net architecture from two aspects: feature extraction ba
 
 ## Results
 #### Visualization results
-![outline](image/Visualization.jpg)
+![outline](image/Visualization.png)
 #### Grad-CAM results
-![outline](image/Grad-CAM.jpg)
+![outline](image/Grad-CAM.png)
 
 
 #### Quantitative Results on NUAA-SIRST, IRSTD-1K and NUDT-SIRST
