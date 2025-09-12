@@ -1,9 +1,9 @@
 # HAFNet: Hierarchical Attention Fusion Network for Infrared Small Target Detection
 
-**We have submitted the paper for review and will make the code available after publication.**
+On September 4, 2025, our paper was officially accepted by ***IEEE Transactions on Geoscience and Remote Sensing***. We would like to express our sincere gratitude to all reviewers and editors for their valuable feedback and patient guidance during the review process, which played a crucial role in improving the quality of our paper. We are deeply honored and express our sincere gratitude for their support and assistance.
 
 ## Network
-HAFNet is an improved U-Net architecture from two aspects: feature extraction backbone and skip connections, aiming to enhance detection ability and generalization performance.
+**HAFNet is an improved U-Net architecture from two aspects: feature extraction backbone and skip connections, aiming to enhance detection ability and generalization performance.**
 ![outline](image/HAFNet.png)
 ## Recommended Environment
  - [ ] python  3.11.7
