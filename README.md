@@ -60,6 +60,20 @@ On September 4, 2025, our paper was officially accepted by ***IEEE Transactions 
 
 *The overall repository style is highly borrowed from [DNANet](https://github.com/YeRen123455/Infrared-Small-Target-Detection). Thanks to Boyang Li.
 
+## Citation
+If you found this project helpful, please give us a star. If HAFNet has inspired you, please consider citing it. Thank you!
+```
+@ARTICLE{11154006,
+  author={Zhang, Yingmei and Bao, Wangtao and Yang, Yong and Wan, Weiguo and Xiao, Qin and Zou, Xueting},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={HAFNet: Hierarchical Attention Fusion Network for Infrared Small Target Detection}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-16},
+  keywords={Feature extraction;Semantics;Decoding;Object detection;Transformers;Training;Standards;Image segmentation;Data mining;Accuracy;Dual-branch semantic perception module (DSPM);hierarchical attention fusion network (HAFNet);infrared small target detection (IRSTD);skip connections},
+  doi={10.1109/TGRS.2025.3607732}}
+```
 
 
 
